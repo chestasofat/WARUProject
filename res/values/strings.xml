@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WARU</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="location_array">
+        <item>Your Current Location</item>
+        <item>Lecture Hall L-20</item>
+        <item>Lecture Hall L-21</item>
+        <item>Lecture Hall L-22</item>
+        <item>Lecture Hall L-23</item>
+        <item>Hardware Lab</item>
+        <item>Outside CSE Department</item>
+        <item>CSRC Server Room</item>
+        <item>CSRC Seminar Room</item>
+        <item>CSRC Lab</item>
+    </string-array>
+
+</resources>
